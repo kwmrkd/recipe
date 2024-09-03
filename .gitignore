@@ -1,0 +1,5 @@
+string2img/datasets
+string2img/data
+string2img/__pycache__
+edm/downloads
+edm/fid-refs
